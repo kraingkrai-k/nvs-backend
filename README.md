@@ -1,5 +1,6 @@
-1. README.md show your lasted project or standard of init project structure and defined convention
+#### 1. README.md show your lasted project or standard of init project structure and defined convention
 
+```
 project-name-1
     deployment
         - *.yaml
@@ -28,7 +29,9 @@ project-name-1
     ...config,
     Dockerfile,
     .env.example
+```
 
+```
 project-name-2
     deployment
         - *.yaml
@@ -66,7 +69,7 @@ project-name-2
     ...config,
     Dockerfile,
     .env.example
-
+```
 
 # First setup project
 
